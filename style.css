@@ -1,0 +1,35 @@
+.list-itm{
+    cursor: pointer;
+    width:min-content;
+}
+.list-item{
+    /* display: flex; */
+    display: block;
+    /* text-align: center; */
+    margin: auto;
+    background-color: rgb(187, 191, 191);
+    width:30%;
+    height: 2rem;
+    font-size: 1.5rem;
+    border : 1px solid white;
+    padding:5px;
+}
+.list-item:hover{
+    color:blue;
+    text-decoration: line-through;
+    
+}
+form{
+    display:flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+input,button{
+    margin: 3px;
+    height: 1.5rem;
+    font-size: 1rem;
+}
+#new-item-form{
+    margin:10px;
+}
+  
