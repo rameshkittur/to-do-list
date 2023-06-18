@@ -30,7 +30,7 @@ button:hover{
     background-color: #0a406f;
 }
 #list{
-    margin-top: 60px;
+    margin-top: 20px;
 }
 .list-itm{
     cursor: pointer;
@@ -40,7 +40,7 @@ button:hover{
     /* display: flex; */
     display: block;
     /* text-align: center; */
-   margin:auto;
+    margin:auto;
     background-color: rgb(187, 191, 191);
     width:30%;
     height: 3rem;
